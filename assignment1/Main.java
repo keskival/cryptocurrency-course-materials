@@ -1,9 +1,10 @@
 /*
  * Main test code for Cousera cryptocurrency assignment1
- * Based on original code by Sven Mentl
+ * Based on code by Sven Mentl and Pietro Brunetti
  * 
  * Copyright:
  * - Sven Mentl
+ * - Pietro Brunetti
  * - Bruce Arden
  * - Tero Keski-Valkama
  */
