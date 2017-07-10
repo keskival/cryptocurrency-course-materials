@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>General</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/base/coursera/infra-services" value="118877094452000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="maximumHeapSize" value="3072" />
+  </component>
+</project>
